@@ -35,7 +35,15 @@ function updateStock(inventory) = {
 function checkLowStock (inventory) {
     var (totalvalu calculateInventoryValue(price: 1800 * quantity: 8) = 14,400) = Refrigerator
     var( totalvalue calcualteInventoryValue(price: 600 * quantity: 7) = 4,200) = Microwave
-    
+
+};
+
+// Task 6: Create a Function to Process a Sale:
+
+function processSale (productName) = {
+    var productName = inventory.find((product=))
 }
+
+
 
     
