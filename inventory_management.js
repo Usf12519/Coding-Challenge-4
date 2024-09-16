@@ -9,3 +9,12 @@ let inventory = [
 
 
 ];
+
+// Task 2: Create a Function to Display Product Details
+
+function displayProductDetails(Refrigerator)
+const [name, price, quantity, lowStockLevel] = Refrigerator;
+console.log( `Product Name: ${Refrigerator}`;
+console.log( `Price: ${1800tofixed}`};
+console.log( `Quantity lowStockLevel: ${8(stockstatus2)};
+    
