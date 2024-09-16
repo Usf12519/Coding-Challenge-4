@@ -12,13 +12,13 @@ let inventory = [
 
 // Task 2: Create a Function to Display Product Details
 
-{ function displayProductDetails(inventory) = {}
+{ function displayProductDetails(inventory) = {
     const [name, price, quantity, lowStockLevel] = Refrigerator;
     console.log(inventory.name: ${refrigerator})};
     console.log(inventory.price: ${1800tofixed})};
     console.log(inventory.quantity: ${(stockstatus2)};
 
-];
+};
 
 
 // Task 3: Create a Function to Update Product Stock After Sales:
@@ -30,6 +30,12 @@ function updateStock(inventory) = {
 
 };
 
+// Task 4: Create a Function to Check Low Stock Products:
 
+function checkLowStock (inventory) {
+    var (totalvalu calculateInventoryValue(price: 1800 * quantity: 8) = 14,400) = Refrigerator
+    var( totalvalue calcualteInventoryValue(price: 600 * quantity: 7) = 4,200) = Microwave
+    
+}
 
     
