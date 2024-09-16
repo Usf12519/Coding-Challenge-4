@@ -12,9 +12,24 @@ let inventory = [
 
 // Task 2: Create a Function to Display Product Details
 
-function displayProductDetails(Refrigerator)
-const [name, price, quantity, lowStockLevel] = Refrigerator;
-console.log( `Product Name: ${Refrigerator}`;
-console.log( `Price: ${1800tofixed}`};
-console.log( `Quantity lowStockLevel: ${8(stockstatus2)};
+{ function displayProductDetails(inventory) = {}
+    const [name, price, quantity, lowStockLevel] = Refrigerator;
+    console.log(inventory.name: ${refrigerator})};
+    console.log(inventory.price: ${1800tofixed})};
+    console.log(inventory.quantity: ${(stockstatus2)};
+
+];
+
+
+// Task 3: Create a Function to Update Product Stock After Sales:
+
+function updateStock(inventory) = {
+    const [20(unitsSold)]
+   console.log(quantity(1800) - unitsSold(20)) = 1780
+(out of stock)
+
+};
+
+
+
     
